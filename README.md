@@ -1,2 +1,2 @@
 # rest-api-postgresql
-REST-API creado con nodejs y el modulo pg.
+REST-API creada con nodejs y el modulo pg.
